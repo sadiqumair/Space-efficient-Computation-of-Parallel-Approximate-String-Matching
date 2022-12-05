@@ -8,8 +8,6 @@ Sequences can be provided in fasta format as well as plain text format.
 Maximum allowed memory can be adjusted using the constant MAXIMUM_MEM_ALLOWED but it cannot be less than size of the text.
 
 
-to run: ./osm <sequence 1 file name>  <sequence 2 file name>  <threshold percentage>
-
 ## Compilig and Running an OpenMP program
 g++ osm_mem.cpp -o osm -fopenmp -O3
 
