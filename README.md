@@ -18,6 +18,10 @@ to run: ./osm <sequence 1 file name>  <sequence 2 file name>  <threshold percent
 nvcc esm6.cu -Xcompiler -fopenmp -o esm -fopenmp -O3
 
 to run: ./esm <sequence 1 file name>  <sequence 2 file name>  <threshold percentage>
+  
+## Please cite this article
+  Space-efficient computation of parallel approximate string matching
+  https://doi.org/10.1007/s11227-022-05038-6
 
 ## Please cite this article
   Space-efficient computation of parallel approximate string matching (The Journal of Supercomputing)
