@@ -21,5 +21,6 @@ to run: ./esm <sequence 1 file name>  <sequence 2 file name>  <threshold percent
 
 ## Please cite this article
   Space-efficient computation of parallel approximate string matching (The Journal of Supercomputing)
+  
   https://doi.org/10.1007/s11227-022-05038-6
 
